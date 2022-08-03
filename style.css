@@ -22,6 +22,10 @@
     --font2: 'Fraunces', serif;
 }
 
+body {
+    background-color: antiquewhite;
+}
+
 a {
     text-decoration: none;
 }
@@ -135,7 +139,7 @@ button {
 
 .about-text h2 {
     font-family: var(--font2);
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: 900;
     margin-block-end: 1.5rem;
 }
