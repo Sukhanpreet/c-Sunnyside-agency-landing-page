@@ -23,7 +23,7 @@
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: rgb(255, 249, 241);
 }
 
 a {
@@ -135,6 +135,7 @@ button {
     padding: 2.5rem;
     flex-direction: column;
     justify-content: center;
+    gap: 1.5rem;
 }
 
 .about-text h2 {
